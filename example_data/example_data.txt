@@ -1,0 +1,15 @@
+This is line 1.
+Hello my friend.
+This will be our training data for this ALBERT example.
+Here, we only do pretraining which usually needs a lot of training data.
+But we start in this example only with a small amount of data, so that you can train on your laptop.
+
+A new document begins.
+We will train on this document.
+Each line begins on a newline.
+
+Two newlines separate documents.
+Now we already have three documents.
+ALBERT's tokenizer can also deal with ajs lwrhg;im;oacef.
+We need more lines for this document.
+We can also use latex: $\mathrm{m} = \frac{x + y^2}{\log(c) + d}$
